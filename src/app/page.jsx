@@ -36,7 +36,7 @@ export default function Website() {
         transition={{ duration: 0.8, delay: 0.8 }}
         className="fixed bottom-4 right-4 text-sm text-white/30 pointer-events-none z-50 font-light"
       >
-        @suraj2779
+        @4qx.5
       </motion.div>
     </div>
   );
